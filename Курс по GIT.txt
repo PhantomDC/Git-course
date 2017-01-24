@@ -24,6 +24,6 @@
 
 4. Состояния файлов. Основные команды. commit, add, checkout, branch
 
-	4.1 
+	4.1 Состояние файлов: untracked files, new files, delete files, modified
 
 5.       
